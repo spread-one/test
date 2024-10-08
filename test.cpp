@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(){
-	cout<<
+	cout<<1213
 
 
 }
